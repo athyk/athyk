@@ -19,9 +19,9 @@
     "I like to complicate the simple things making them more fun to code."
   ],
   "dislikes": [
-    "People who ask to ask, ask your question the first time",
-    "Anime",
-    "NFTs"
+    "I dislike people who ask to ask, ask your question the first time",
+    "I dislike anime",
+    "I dislike NFTs"
   ]
 }
 ```
