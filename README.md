@@ -19,7 +19,7 @@
     "I like to complicate the simple things making them more fun to code."
   ],
   "dislikes": [
-    "I very much hate people who ask to ask, ask your question the first time",
+    "People who ask to ask, ask your question the first time",
     "Anime",
     "NFTs"
   ]
