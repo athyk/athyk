@@ -76,7 +76,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other            4 hrs 41 mins   █████████████████░░░░░░░░   67.63 %
+Go               1 hr 6 mins     ██████████░░░░░░░░░░░░░░░   39.52 %
+JavaScript       51 mins         ███████▓░░░░░░░░░░░░░░░░░   30.73 %
+TypeScript       34 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+Other            11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
 ```
 
 <!--END_SECTION:waka-->
