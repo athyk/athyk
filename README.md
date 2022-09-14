@@ -57,11 +57,3 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<details>
-  <summary>GitHub statistics</summary>
-  <a href="https://github.com/athyk">
-      <img align="center" src="https://github.com/athyk/github-stats/blob/master/generated/overview.svg" />
-   <a href="https://github.com/athyk">
-     <img align="center" src="https://github.com/athyk/github-stats/blob/master/generated/languages.svg" />
-</details>
-
