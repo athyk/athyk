@@ -32,7 +32,7 @@
 ![Languages I use/know](https://skillicons.dev/icons?i=py,js,html,go,lua,java)
 
 **Frameworks & Technologies:**<br />
-![Frameworks & Technologies I use/know](https://skillicons.dev/icons?i=nodejs,nextjs,ts,react,express,docker,kubernetes,mysql,postgresql,mongodb,git,github,tailwind)
+![Frameworks & Technologies I use/know](https://skillicons.dev/icons?i=nodejs,nextjs,ts,react,express,docker,kubernetes,mysql,postgresql,mongodb,git,github,tailwind,prisma)
 
 📙 **What am I currently learning?**
 
