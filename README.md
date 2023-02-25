@@ -36,11 +36,7 @@
 
 📙 **What am I currently learning?**
 
-- <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Docker with Kubernetes
-
-- <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React / Frontend JS
-
-- <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> C#
+- <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />  Kubernetes
 - <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> Rust
 
 📊 **My recent programming:**
