@@ -10,18 +10,15 @@
     "I've written a book",
     "I take good photographs",
     "I study Computer Science",
-    "I pretty much have no life",
-    "I had the chance to make this a poem."
   ],
   "likes": [
-    "I like to play games and write cool programs in my spare time",
-    "I like realistic movies",
-    "I like to complicate the simple things making them more fun to code."
+    "Play games",
+    "Realistic movies",
   ],
   "dislikes": [
-    "I dislike people who ask to ask, ask your question the first time",
-    "I dislike anime",
-    "I dislike NFTs"
+    "People who ask to ask",
+    "Anime",
+    "NFTs"
   ]
 }
 ```
