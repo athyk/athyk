@@ -6,19 +6,16 @@
 ```json
 {
   "facts": [
-    "I write poems",
-    "I've written a book",
-    "I take good photographs",
-    "I study Computer Science",
+    "Writes poems",
+    "Written a book",
+    "Undertaking a degree in Computer Science",
   ],
   "likes": [
-    "Play games",
+    "Playing games",
     "Realistic movies",
   ],
   "dislikes": [
-    "People who ask to ask",
-    "Anime",
-    "NFTs"
+    "People who ask to ask"
   ]
 }
 ```
@@ -26,7 +23,7 @@
 
 
 **Languages:**<br>
-![Languages I use/know](https://skillicons.dev/icons?i=py,js,html,go,lua,java)
+![Languages I use/know](https://skillicons.dev/icons?i=go,js,py,html,lua,java)
 
 **Frameworks & Technologies:**<br />
 ![Frameworks & Technologies I use/know](https://skillicons.dev/icons?i=nodejs,nextjs,ts,react,express,docker,kubernetes,mysql,postgresql,mongodb,git,github,tailwind,prisma)
