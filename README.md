@@ -32,17 +32,3 @@
 
 - <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />  Kubernetes
 - <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> Rust
-
-📊 **My recent programming:**
-
-<!--START_SECTION:waka-->
-
-```txt
-Go                 4 hrs 14 mins   ██████████████▒░░░░░░░░░░   57.52 %
-Python             1 hr 56 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
-Markdown           24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-SQL                16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-JSON               9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-```
-
-<!--END_SECTION:waka-->
