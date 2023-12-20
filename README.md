@@ -13,6 +13,7 @@
   "likes": [
     "Playing games",
     "Realistic movies",
+    "Strict typing",
   ],
   "dislikes": [
     "People who ask to ask"
