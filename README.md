@@ -24,7 +24,7 @@
 
 
 **Languages:**<br>
-![Languages I use/know](https://skillicons.dev/icons?i=go,js,py,html,lua,java)
+![Languages I use/know](https://skillicons.dev/icons?i=go,js,py,java,html,css,lua)
 
 **Frameworks & Technologies:**<br />
 ![Frameworks & Technologies I use/know](https://skillicons.dev/icons?i=nodejs,nextjs,ts,react,express,docker,kubernetes,mysql,postgresql,mongodb,git,github,tailwind,prisma)
