@@ -11,9 +11,9 @@
     "Undertaking a degree in Computer Science",
   ],
   "likes": [
-    "Playing games",
-    "Realistic movies",
-    "Strict typing",
+    "Tactial games",
+    "Thrillers",
+    "Strict typing in programming",
   ],
   "dislikes": [
     "People who ask to ask"
