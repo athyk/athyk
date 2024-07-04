@@ -11,7 +11,7 @@
     "Undertaking a degree in Computer Science",
   ],
   "likes": [
-    "Tactial games",
+    "Tactical games",
     "Thrillers",
     "Strict typing in programming",
   ],
@@ -32,4 +32,4 @@
 📙 **What am I currently learning?**
 
 - <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />  Kubernetes
-- <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> Rust
+- <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-plain.svg" /> Oauth2/OIDC
