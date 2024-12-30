@@ -5,18 +5,15 @@
 
 ```json
 {
-  "facts": [
-    "Writes poems",
-    "Written a book",
-    "Undertaking a degree in Computer Science",
-  ],
   "likes": [
-    "Tactical games",
-    "Thrillers",
-    "Strict typing in programming",
+    "Standards",
+    "Clear and well structured procedures",
+    "Strict type systems",
+    "Test-driven development"
   ],
   "dislikes": [
-    "People who ask to ask"
+    "People who ask to ask",
+    "Projects that don't follow standards"
   ]
 }
 ```
@@ -32,4 +29,3 @@
 📙 **What am I currently learning?**
 
 - <img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />  Kubernetes
-- <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-plain.svg" /> Oauth2/OIDC
